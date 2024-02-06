@@ -31,7 +31,7 @@
   <tr>
      <td align="center"><a href="https://github.com/innerstella"><img src="https://avatars.githubusercontent.com/u/77491430?v=4" width="100px;" alt=""/><br /><sub><b>수지</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/hsmurf"><img src="https://avatars.githubusercontent.com/u/107796704?v=4" width="100px;" alt=""/><br /><sub><b>준용</b></sub></a><br /></td>
-<!--     <td align="center"><a href="https://github.com/yoondgu"><img src="https://avatars.githubusercontent.com/u/97426362?v=4?s=100" width="100px;" alt=""/><br /><sub><b>기환</b></sub></a><br /></td> -->
+    <td align="center"><a href="https://github.com/rlghks1490"><img src="https://avatars.githubusercontent.com/u/82919729?v=4" width="100px;" alt=""/><br /><sub><b>기환</b></sub></a><br /></td>
         <td align="center"><a href="https://github.com/lv1gom"><img src="https://avatars.githubusercontent.com/u/143579803?v=4" width="100px;" alt=""/><br /><sub><b>연준</b></sub></a><br /></td>
 </tr>
 </table>
