@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&fontSize=40&fontColor=black" />
+
 # 🌟 ES2024
 코드잇 스프린트 4기 PART1 A반 4팀 팀원들의 모던 자바스크립트 Deep Dive 스터디
 
