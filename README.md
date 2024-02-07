@@ -12,7 +12,7 @@
 ## ✏️ 진행 방식
 **1. 스터디 전**
 * 매주 스터디전까지 강의 내용을 마크다운으로 정리하여 `PR` 을 보낸다([마크다운 정리 및 PR 가이드](https://github.com/innerstella/ES2024/wiki/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EC%A0%95%EB%A6%AC-%EB%B0%8F-PR-%EA%B0%80%EC%9D%B4%EB%93%9C) 참고). 
-* 스터디 하루 전날까지 각자 더 깊게 공부하고 싶은 부분이나 추가로 공부한 내용은 `Discussions의 📚 More`에 올린다.  
+* 스터디 하루 전날까지 각자 더 깊게 공부하고 싶은 부분이나 추가로 공부한 내용은 `Discussions의 📚More`에 올린다.  
 
 **2. 스터디 중**
 1. 스터디 진행 일주일 전에 함께 학습 범위를 정한다.
@@ -26,7 +26,7 @@
   
 **3. 스터디 후**
 1. 해당 주의 `진행자`는 해당 주의 폴더 내 README에 스터디 내용을 정리하여 업로드한다.
-2. 질문을 한 팀원들은 `Discussions의 ❓ Q&A`에 자신의 질문과 답변을 정리하여 올린다([마크다운 정리 및 PR 가이드](https://github.com/innerstella/ES2024/wiki/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EC%A0%95%EB%A6%AC-%EB%B0%8F-PR-%EA%B0%80%EC%9D%B4%EB%93%9C) 참고). 
+2. 질문을 한 팀원들은 `Discussions의 ❓Q&A`에 자신의 질문과 답변을 정리하여 올린다([마크다운 정리 및 PR 가이드](https://github.com/innerstella/ES2024/wiki/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EC%A0%95%EB%A6%AC-%EB%B0%8F-PR-%EA%B0%80%EC%9D%B4%EB%93%9C) 참고). 
     
 <br>
 
