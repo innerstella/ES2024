@@ -31,4 +31,4 @@
 <br>
 
 ## 🗂️ 발표 자료
-https://docs.google.com/presentation/d/1xoTw5IwQRANQmSKHLcd80izveu34JI0pY7-O5R07Zdo/edit#slide=id.p
+https://docs.google.com/presentation/d/1xoTw5IwQRANQmSKHLcd80izveu34JI0pY7-O5R07Zdo/edit?usp=sharing
